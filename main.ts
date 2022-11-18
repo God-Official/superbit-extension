@@ -320,7 +320,7 @@ namespace SuperBit {
         }
     }
 
-    //% blockId=SuperBit_Motor block="Motor |Motor1 speed %speed1|motor2 speed %speed2|motor3 speed %speed4|motor4 speed %speed4"
+    //% blockId=SuperBit_Motor block="Motor |Motor1 speed %speed1|Motor2 speed %speed2|Motor3 speed %speed4|Motor4 speed %speed4|"
     //% weight=92
     //% blockGap=50
     //% speed1.min=-255 speed1.max=255
